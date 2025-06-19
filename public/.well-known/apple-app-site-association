@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
            {
-             "appID": [ "M86UUTE6FT.com.uniteller.app" ],
+             "appID": "M86UUTE6FT.com.uniteller.app",
              "paths": [ "*" ]
            }]
 	}
