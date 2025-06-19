@@ -7,7 +7,7 @@ export function GET(request: NextRequest) {
 
   switch(os.name){
     case 'Android':
-        return NextResponse.redirect('https://play.google.com/store/apps/details?id=com.app.uniteller')
+         return NextResponse.redirect("https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.app.uniteller")
     break;
     case 'iOS':
         return NextResponse.redirect('https://apps.apple.com/us/app/ulink-money-transfer-superapp/id964443352?l=en-US')
