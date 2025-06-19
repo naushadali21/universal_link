@@ -1,0 +1,11 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.uniteller",
+      "sha256_cert_fingerprints":
+      [
+       "0C:24:F0:97:A8:42:64:7D:40:9E:F5:FB:35:93:DA:3A:A0:06:21:D0:95:7A:8B:4C:35:80:FE:1A:8C:94:B7:C2"
+      ]
+    }
+  }]
