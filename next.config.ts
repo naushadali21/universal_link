@@ -18,6 +18,10 @@ module.exports = {
         source: '/banortelink/:path*',
         destination: '/api/banortelink/:path*',
       },
+      {
+        source: '/uLink/:path*',
+        destination: '/api/uLink/:path*',
+      },
     ]
   },
 };
