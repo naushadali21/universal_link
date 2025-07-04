@@ -12,4 +12,12 @@ module.exports = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      {
+        source: '/banortelink/:path*',
+        destination: '/api/banortelink/:path*',
+      },
+    ]
+  },
 };
