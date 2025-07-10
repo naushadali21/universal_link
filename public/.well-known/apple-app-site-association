@@ -9,6 +9,46 @@
           {
              "appID": "M86UUTE6FT.com.banortelink.app",
              "paths": [ "/banortelink/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.omc.app",
+             "paths": [ "/omc/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.atlantida.app",
+             "paths": [ "/atlantida/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.app.remesasbi",
+             "paths": [ "/remesasbi/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.everpayer.app",
+             "paths": [ "/everpayer/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.remesasbantrab.app",
+             "paths": [ "/remesasbt/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.mlhuillier.PayNearMe",
+             "paths": [ "/mlremit/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.USSC.app",
+             "paths": [ "/ussc/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.MioTransfers.app",
+             "paths": [ "/miotransfer/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.RemesasReservas.app",
+             "paths": [ "/remesasreservas/*" ]
+           },
+          {
+             "appID": "M86UUTE6FT.com.MAZRemitt.app",
+             "paths": [ "/mazremit/*" ]
            }]
 	}
 }
