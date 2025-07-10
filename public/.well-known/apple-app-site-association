@@ -31,7 +31,7 @@
              "paths": [ "/remesasbt/*" ]
            },
           {
-             "appID": "M86UUTE6FT.com.mlhuillier.PayNearMe",
+             "appID": "3M956BCSGM.com.mlhuillier.PayNearMe",
              "paths": [ "/mlremit/*" ]
            },
           {
@@ -49,6 +49,7 @@
           {
              "appID": "M86UUTE6FT.com.MAZRemitt.app",
              "paths": [ "/mazremit/*" ]
-           }]
+           }
+          ]
 	}
 }
