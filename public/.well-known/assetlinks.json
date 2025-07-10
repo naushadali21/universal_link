@@ -74,11 +74,71 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.everpayer.app",
+        "package_name": "com.mlhuillier.paynearme",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "69:8F:4B:AA:2A:1F:1B:AA:C3:E8:A5:AD:D3:79:F0:13:D3:0A:B5:F3:74:53:EE:6B:6A:76:5D:52:F9:B6:B5:C6"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.USSC.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "CC:88:F6:6A:BF:F0:4F:5F:B2:4C:9C:E7:C3:B4:ED:05:AA:CF:0C:1A:E6:ED:C9:F4:3D:CD:90:15:D1:84:2B:06"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.USSC.app",
         "sha256_cert_fingerprints":
         [
           "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
           "44:F9:E1:D1:F7:45:F5:08:91:5C:0B:D4:95:57:62:A1:5E:FA:17:87:36:13:6A:6B:DF:EC:26:83:BA:81:21:B4"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mio.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "26:71:40:14:64:BB:48:49:D4:7B:3B:5F:3C:31:7E:E5:A1:33:21:A6:9C:6E:AF:F6:C5:EC:70:76:B4:8D:A2:77"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.remesasReservas.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "A9:8A:16:58:11:24:F7:3A:99:B9:D6:82:CA:47:60:8E:49:24:6D:3D:99:69:F1:6F:36:34:AD:57:07:A9:04:5D"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.MAZRemitt.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "4E:C8:1B:4B:75:50:1B:9A:51:5F:72:78:9A:29:78:C6:D8:2E:7D:D8:EC:91:75:DB:AD:2C:9A:FE:0D:3C:D3:78"
         ]
       }
     }
