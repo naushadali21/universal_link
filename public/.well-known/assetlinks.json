@@ -10,15 +10,77 @@
        ]
     }
   },
-{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.banortelink.app",
-      "sha256_cert_fingerprints":
-      [
-        "05:64:5E:96:D9:19:82:D6:8A:CC:F8:43:5A:27:5A:6C:C5:17:8D:B5:A6:2B:05:8A:74:F5:A5:32:16:61:30:BD",
-        "E3:2C:7B:B6:F2:B9:9B:83:3E:84:A4:49:AB:95:4C:31:CB:AB:3D:63:47:57:1D:B8:2F:07:48:65:7F:24:C8:DD"
-       ]
+  {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.banortelink.app",
+        "sha256_cert_fingerprints":
+        [
+          "05:64:5E:96:D9:19:82:D6:8A:CC:F8:43:5A:27:5A:6C:C5:17:8D:B5:A6:2B:05:8A:74:F5:A5:32:16:61:30:BD",
+          "E3:2C:7B:B6:F2:B9:9B:83:3E:84:A4:49:AB:95:4C:31:CB:AB:3D:63:47:57:1D:B8:2F:07:48:65:7F:24:C8:DD"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.atlantida.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "90:A7:12:36:E3:88:AA:C1:BC:8E:4F:12:B7:3D:1D:F4:4D:ED:C6:B6:78:38:FE:27:01:2C:F5:A9:6D:7D:E1:9D"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.app.remesasbi",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "02:EE:79:9A:A0:05:A9:33:3D:32:C9:88:61:44:0B:68:71:B7:CD:8D:9C:DE:29:7D:17:29:09:DB:49:DE:A6:44"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.remesasbantrab.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "25:74:AB:81:50:8A:30:E9:3F:71:22:5D:F2:73:2B:09:0F:F4:64:86:DA:E3:6E:4A:94:78:C1:CB:55:15:4B:4C"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.everpayer.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "44:F9:E1:D1:F7:45:F5:08:91:5C:0B:D4:95:57:62:A1:5E:FA:17:87:36:13:6A:6B:DF:EC:26:83:BA:81:21:B4"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.everpayer.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "44:F9:E1:D1:F7:45:F5:08:91:5C:0B:D4:95:57:62:A1:5E:FA:17:87:36:13:6A:6B:DF:EC:26:83:BA:81:21:B4"
+        ]
+      }
     }
-  }]
+
+]
