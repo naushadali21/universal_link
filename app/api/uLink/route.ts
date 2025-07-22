@@ -7,7 +7,7 @@ export function GET(request: NextRequest) {
 
   // e.g. `/api/search?query=hello`
   const { os } = userAgent(request); 
-  const url = (authcode && requestId) ? `https://send.uniteller.com${request.url}` : 'https://ulink.com/ulinkapp/';
+  const url = (authcode && requestId) ? `${request.url.replace('universal-link-one.vercel.app', 'send.uniteller.com')}` : 'https://ulink.com/ulinkapp/';
 
   switch(os.name){
     case 'Android':
