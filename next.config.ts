@@ -23,6 +23,10 @@ module.exports = {
         destination: '/api/uLink/:path*',
       },
       {
+        source: '/ulink/:slug',
+        destination: '/api/uLink/:slug',
+      },
+      {
         source: '/atlantida/:path*',
         destination: '/api/atlantida/:path*',
       },
