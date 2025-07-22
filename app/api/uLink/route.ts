@@ -2,8 +2,12 @@ import { NextRequest, userAgent, NextResponse } from 'next/server';
  
 export function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams;
-  const query = searchParams.get('query'); // e.g. `/api/search?query=hello`
+  const authcode = searchParams.get('authcode'); 
+  const requestId = searchParams.get('requestId'); // e.g. `/api/search?query=hello`
+
+  // e.g. `/api/search?query=hello`
   const { os } = userAgent(request); 
+  const url = (authcode && requestId) ? `https://send.uniteller.com${request.url}` : 'https://ulink.com/ulinkapp/';
 
   switch(os.name){
     case 'Android':
@@ -13,7 +17,7 @@ export function GET(request: NextRequest) {
         return NextResponse.redirect('https://apps.apple.com/us/app/ulink-money-transfer-superapp/id964443352?l=en-US')
     break;
     default:
-        return NextResponse.redirect('https://ulink.com/ulinkapp/')  
+        return NextResponse.redirect(url)  
   }
 
   
