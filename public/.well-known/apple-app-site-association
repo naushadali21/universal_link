@@ -11,7 +11,7 @@
              "paths": [ "/banortelink/*" ]
            },
           {
-             "appID": "M86UUTE6FT.com.omc.app",
+             "appID": "M86UUTE6FT.com.ohmycard.app",
              "paths": [ "/omc/*" ]
            },
           {
