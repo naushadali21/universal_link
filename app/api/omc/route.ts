@@ -7,10 +7,10 @@ export function GET(request: NextRequest) {
 
   switch(os.name){
     case 'Android':
-         return NextResponse.redirect("https://play.google.com/store/apps/details?id=com.banortelink.app&hl=en_IN&gl=US")
+         return NextResponse.redirect("https://play.google.com/store/apps/details?id=com.ohmycard.app&hl=en_IN&gl=US")
     break;
     case 'iOS':
-        return NextResponse.redirect('https://apps.apple.com/us/app/banorte-link-money-transfer/id6747032837')
+        return NextResponse.redirect('https://apps.apple.com/us/app/ohhmycard/id6748347756')
     break;
     default:
         return NextResponse.redirect('https://ulink.com/ulinkapp/')  
