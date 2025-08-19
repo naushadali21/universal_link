@@ -49,7 +49,11 @@
           {
              "appID": "M86UUTE6FT.com.MAZRemitt.app",
              "paths": [ "/mazremit/*" ]
-           }
+           },
+           {
+              "appID": "M86UUTE6FT.com.flexmoney.app",
+              "paths": [ "/flexmoney/*" ]
+            }
           ]
 	}
 }

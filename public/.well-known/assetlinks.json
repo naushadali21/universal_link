@@ -153,6 +153,18 @@
           "F1:92:78:BE:51:B7:66:B9:31:28:B8:2A:12:F3:D3:85:61:6A:6F:D6:58:0C:3D:08:48:B8:7A:8F:15:F0:C5:2B"
         ]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.flexmoney.app",
+        "sha256_cert_fingerprints":
+        [
+          "82:4E:F1:E1:6B:1A:0D:10:C8:D3:41:DF:2D:69:9A:08:5D:AD:B5:C4:C5:7B:33:D7:F9:78:0F:AB:DD:58:12:3D",
+          "79:28:46:7A:E2:97:08:D5:13:D7:C3:A8:71:7D:3B:6A:65:DC:05:DF:54:92:DE:E3:8E:3B:13:E2:33:B9:1F:2F"
+        ]
+      }
     }
 
 ]
