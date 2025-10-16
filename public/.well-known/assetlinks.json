@@ -26,6 +26,18 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
+        "package_name": "com.app.banortelink",
+        "sha256_cert_fingerprints":
+        [
+          "05:64:5E:96:D9:19:82:D6:8A:CC:F8:43:5A:27:5A:6C:C5:17:8D:B5:A6:2B:05:8A:74:F5:A5:32:16:61:30:BD",
+          "9A:A2:EA:26:C8:ED:AA:E8:D4:F3:45:7F:52:43:D6:C2:D3:F9:38:ED:CF:56:4C:5C:E2:03:42:F6:6E:FA:7A:F0"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
         "package_name": "com.atlantida.app",
         "sha256_cert_fingerprints":
         [
