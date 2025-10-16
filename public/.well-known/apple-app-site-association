@@ -8,11 +8,11 @@
            },
           {
              "appID": "M86UUTE6FT.com.banortelink.app",
-             "paths": [ "/banortelink/*" ]
+             "paths": [ "/banortelink/*", "/BANORTELINK/*" ]
            },
           {
              "appID": "M86UUTE6FT.com.ohmycard.app",
-             "paths": [ "/omc/*" ]
+             "paths": [ "/omc/*", "/OMC/*" ]
            },
           {
              "appID": "M86UUTE6FT.com.atlantida.app",
@@ -52,7 +52,7 @@
            },
            {
               "appID": "M86UUTE6FT.com.flexmoney.app",
-              "paths": [ "/flexmoney/*" ]
+              "paths": [ "/flexmoney/*", "/FLEXMONEY/*" ]
             }
           ]
 	}
